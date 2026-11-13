@@ -1,15 +1,5 @@
 {
   "version": 1,
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
-  "notices": [
-    {
-      "id": "20261114-045403",
-      "type": "basic",
-      "title": "RT Test C (tray)",
-      "body": "Thong bao C - app dang o khay",
-      "created_at": "2026-11-14 04:54:03",
-      "important": false,
-      "sig": "j9bY5lV2XOvBFPuxgSKkkLGKn0pdeN34WxquSrP32y+f5zzwVyDQWGnH0iEDYSljcY6FnrwOOdWTuZhPW61gBA=="
-    }
-  ]
+  "notices": []
 }
