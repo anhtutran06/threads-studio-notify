@@ -27,7 +27,8 @@
       "end_at": "2026-11-15 04:40",
       "created_at": "2026-11-14 04:40:40",
       "important": false,
-      "sig": "OCL41iojnDipunSN/4+aGlCaFPjgIwPVTZ25IGm67EPoHD/05cj52nkzx+Gb8ikicuXV0z7HTnEnoAnmRlqsAw=="
+      "sig": "OCL41iojnDipunSN/4+aGlCaFPjgIwPVTZ25IGm67EPoHD/05cj52nkzx+Gb8ikicuXV0z7HTnEnoAnmRlqsAw==",
+      "deleted": true
     }
   ]
 }
