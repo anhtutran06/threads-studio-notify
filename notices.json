@@ -13,7 +13,8 @@
       "end_at": "2026-11-15 04:37",
       "created_at": "2026-11-14 04:37:15",
       "important": false,
-      "sig": "cvIIHQhm+JPxrkzxEvk9m+MqsmDsU85gS8UW91KbiXuefnVBax03Go/QMBkUmb4LtCsoQfUVQu4/2NAszyGZBw=="
+      "sig": "cvIIHQhm+JPxrkzxEvk9m+MqsmDsU85gS8UW91KbiXuefnVBax03Go/QMBkUmb4LtCsoQfUVQu4/2NAszyGZBw==",
+      "deleted": true
     }
   ]
 }
