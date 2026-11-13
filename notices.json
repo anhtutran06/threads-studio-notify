@@ -46,7 +46,8 @@
       "body": "Thong bao B thay A",
       "created_at": "2026-11-14 04:48:46",
       "important": false,
-      "sig": "LpSQYZsN5pCgu4dcyLHVVD943Et2vrogj2UpMxAl/JpMRQ5Tgo1gCy+laR70Bpe1sQnMXex6yrVD5RhhGgJvBg=="
+      "sig": "LpSQYZsN5pCgu4dcyLHVVD943Et2vrogj2UpMxAl/JpMRQ5Tgo1gCy+laR70Bpe1sQnMXex6yrVD5RhhGgJvBg==",
+      "deleted": true
     }
   ]
 }
