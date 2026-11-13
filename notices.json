@@ -1,5 +1,15 @@
 {
   "version": 1,
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
-  "notices": []
+  "notices": [
+    {
+      "id": "20261114-053205",
+      "type": "basic",
+      "title": "Khach Test 5",
+      "body": "Thong bao 5",
+      "created_at": "2026-11-14 05:32:05",
+      "important": false,
+      "sig": "QI4xr9jU19Ql6THqVW63aXRHTlB9eVN2pxwD7HYXvjgsCdK0rcNgXMeKfu0LSVnT30435S7Q9fKrDf1vNHVjAQ=="
+    }
+  ]
 }
