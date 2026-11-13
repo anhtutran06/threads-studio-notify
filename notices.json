@@ -3,51 +3,13 @@
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
   "notices": [
     {
-      "id": "20261114-043715",
+      "id": "20261114-045403",
       "type": "basic",
-      "title": "Test",
-      "body": "Trần Anh Tú test thông báo",
-      "html": "",
-      "image_url": "https://raw.githubusercontent.com/anhtutran06/threads-studio-notify/main/media/20261114-043715.jpg",
-      "start_at": "2026-11-14 04:37",
-      "end_at": "2026-11-15 04:37",
-      "created_at": "2026-11-14 04:37:15",
+      "title": "RT Test C (tray)",
+      "body": "Thong bao C - app dang o khay",
+      "created_at": "2026-11-14 04:54:03",
       "important": false,
-      "sig": "cvIIHQhm+JPxrkzxEvk9m+MqsmDsU85gS8UW91KbiXuefnVBax03Go/QMBkUmb4LtCsoQfUVQu4/2NAszyGZBw==",
-      "deleted": true
-    },
-    {
-      "id": "20261114-044040",
-      "type": "basic",
-      "title": "Test",
-      "body": "testttttt",
-      "html": "",
-      "image_url": "",
-      "start_at": "2026-11-14 04:40",
-      "end_at": "2026-11-15 04:40",
-      "created_at": "2026-11-14 04:40:40",
-      "important": false,
-      "sig": "OCL41iojnDipunSN/4+aGlCaFPjgIwPVTZ25IGm67EPoHD/05cj52nkzx+Gb8ikicuXV0z7HTnEnoAnmRlqsAw==",
-      "deleted": true
-    },
-    {
-      "id": "20261114-044815",
-      "type": "basic",
-      "title": "RT Test A",
-      "body": "Thong bao A",
-      "created_at": "2026-11-14 04:48:15",
-      "important": false,
-      "sig": "FperZRvM+owS0RmvmS/BMqJH68ycL9NOvihgOGOW0XygcE7WY28odgB04FWEFdpVBcqyraFzazd7YjlIOGM5BA=="
-    },
-    {
-      "id": "20261114-044846",
-      "type": "basic",
-      "title": "RT Test B",
-      "body": "Thong bao B thay A",
-      "created_at": "2026-11-14 04:48:46",
-      "important": false,
-      "sig": "LpSQYZsN5pCgu4dcyLHVVD943Et2vrogj2UpMxAl/JpMRQ5Tgo1gCy+laR70Bpe1sQnMXex6yrVD5RhhGgJvBg==",
-      "deleted": true
+      "sig": "j9bY5lV2XOvBFPuxgSKkkLGKn0pdeN34WxquSrP32y+f5zzwVyDQWGnH0iEDYSljcY6FnrwOOdWTuZhPW61gBA=="
     }
   ]
 }
