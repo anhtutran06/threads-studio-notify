@@ -38,6 +38,15 @@
       "created_at": "2026-11-14 04:48:15",
       "important": false,
       "sig": "FperZRvM+owS0RmvmS/BMqJH68ycL9NOvihgOGOW0XygcE7WY28odgB04FWEFdpVBcqyraFzazd7YjlIOGM5BA=="
+    },
+    {
+      "id": "20261114-044846",
+      "type": "basic",
+      "title": "RT Test B",
+      "body": "Thong bao B thay A",
+      "created_at": "2026-11-14 04:48:46",
+      "important": false,
+      "sig": "LpSQYZsN5pCgu4dcyLHVVD943Et2vrogj2UpMxAl/JpMRQ5Tgo1gCy+laR70Bpe1sQnMXex6yrVD5RhhGgJvBg=="
     }
   ]
 }
