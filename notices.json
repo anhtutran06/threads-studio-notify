@@ -1,15 +1,5 @@
 {
   "version": 1,
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
-  "notices": [
-    {
-      "id": "20261114-052103",
-      "type": "basic",
-      "title": "Dev Test 4",
-      "body": "Thay the 3",
-      "created_at": "2026-11-14 05:21:03",
-      "important": false,
-      "sig": "9v1XRiQ9YqLIT5uHBkMkINSkRt5FNXkZ89vEF3uc5MwvI1eNWvNGC3f0rwyiIU080GV/eE2DkhzEDD7vbGg/AA=="
-    }
-  ]
+  "notices": []
 }
