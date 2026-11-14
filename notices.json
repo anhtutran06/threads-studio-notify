@@ -1,19 +1,5 @@
 {
   "version": 1,
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
-  "notices": [
-    {
-      "id": "20261114-215424",
-      "type": "basic",
-      "title": "test",
-      "body": "ttttt",
-      "html": "",
-      "image_url": "",
-      "start_at": "2026-11-14 21:54",
-      "end_at": "2026-11-15 21:54",
-      "created_at": "2026-11-14 21:54:24",
-      "important": false,
-      "sig": "Bhe17epi6Yg8Xihp5imzkzKvkE9zeje/2DXDMLHOrWTK9e+WQAyKkclZa5+fgUeYhmEuWYdKBobYj+FcwgTvAA=="
-    }
-  ]
+  "notices": []
 }
