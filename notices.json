@@ -1,19 +1,5 @@
 {
   "version": 1,
   "public_key": "3eZ0nlzGxj3kPOQJxveqwjHmRd+Ho4RgANhlACvwSbY=",
-  "notices": [
-    {
-      "id": "20261114-123230",
-      "type": "basic",
-      "title": "test",
-      "body": "atus",
-      "html": "",
-      "image_url": "",
-      "start_at": "",
-      "end_at": "",
-      "created_at": "2026-11-14 12:32:30",
-      "important": false,
-      "sig": "+nVqd57QLEzassA8KDuza8Wq7eg4cz+u8eQ2QxPJmyNoGF275nRRlHSwvPSQXSrWi+nSk+gZNt3N7JM/lr3DAg=="
-    }
-  ]
+  "notices": []
 }
